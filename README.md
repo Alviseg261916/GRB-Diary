@@ -25,9 +25,11 @@ Author: Alvise, 2025.
    ```bash
    pip install -r requirements.txt
    ```
+3. Copy the folders:
    
-3. Copy all folders and source code into the folder containing the virtual environment.
-   
+   ```bash
+   Copy all the folders and the source code into the same folder where the virtual environment was created.
+   ```
 4. Run the app:
 
    ```bash
