@@ -28,7 +28,7 @@ Author: Alvise, 2025.
 3. Copy the folders:
    
    ```bash
-   Copy all the folders and the source code into the same folder where the virtual environment was created.
+   Copy all the folders and the sourcecode into the same folder where the virtual environment was created.
    ```
 4. Run the app:
 
