@@ -17,3 +17,4 @@
 | pywinstyles               | 1.8         | CC0 1.0 Universal (CC0 1.0) Public Domain Dedication           |
 | six                       | 1.17.0      | MIT License                                                    |
 | tzdata                    | 2025.2      | Apache Software License                                        |
+| theme.mp3                 | Audio       | Pond5 Royalty-Free Standard License                            | 
