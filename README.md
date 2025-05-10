@@ -25,8 +25,14 @@ Author: Alvise, 2025.
    ```bash
    pip install -r requirements.txt
    ```
-
-3. Run the app:
+   
+3. Copy the folders:
+   
+   ```bash
+   Copy all the folder and the suorce code in the same folder where the virtual enviroment was created
+   ```
+   
+4. Run the app:
 
    ```bash
    python diario.py
