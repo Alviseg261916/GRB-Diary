@@ -1,77 +1,34 @@
 <div align="center">
-
   <img src="Images/App_Icon.ico" alt="logo" width="200" height="auto" />
   <h1>Awesome Readme Template</h1>
-  
-  <p>
-    Daily Journal Proof-of-Concept 
-  </p>
+  <p>Daily Journal Proof-of-Concept</p>
 </div>
 
-# :notebook_with_decorative_cover: Table of Contents
+# Table of Contents
 
-- [About the Project]()
-  * [Project Description](Project-description)
-  * [Screenshots](#camera-screenshots)
-  * [Tech Stack](#space_invader-tech-stack)
-  * [Features](#dart-features)
-  * [Color Reference](#art-color-reference)
-  * [Environment Variables](#key-environment-variables)
-- [Getting Started](#toolbox-getting-started)
-  * [Installation](#gear-installation)
-  * [Run Locally](#running-run-locally)
-- [Usage](#eyes-usage)
-- [Roadmap](#compass-roadmap)
-- [Contributing](#wave-contributing)
-  * [Code of Conduct](#scroll-code-of-conduct)
-- [FAQ](#grey_question-faq)
-- [License](#warning-license)
-- [Contact](#handshake-contact)
-- [Acknowledgements](#gem-acknowledgements)
+- [About the Project](#about-the-project)
+  * [Project Description](#project-description)
+  * [Screenshots](#screenshots)
+  * [Tech Stack](#tech-stack)
+  * [Features](#features)
+  * [Color Reference](#color-reference)
+  * [Environment Variables](#environment-variables)
+- [Getting Started](#getting-started)
+  * [Installation](#installation)
+  * [Run Locally](#run-locally)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+  * [Code of Conduct](#code-of-conduct)
+- [FAQ](#faq)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
+
+## About the Project
 
 ### Project Description
 
 This application is a digital diary developed entirely in Python, using CustomTkinter for the graphical interface and SQL for data management. Unlike traditional CustomTkinter-based applications, the pvInStyle library has been integrated here, enabling smooth animations such as fade-in and fade-out, as well as advanced page management. Thanks to this integration, each button can control entire pages with multiple complex elements instead of single widgets, making the interface more dynamic, modern, and structured. Additionally, by using SQL, the application supports multiple users, each with their own personal password to access the diary in a private and secure manner.
 
-This application is not intended for distribution: it is a proof of concept developed to demonstrate to myself that Python is capable of handling lightweight yet functional GUIs, even with complex animations and pages.
-
-Author: Alvise, 2025.
-
-<!-- Screenshots -->
-### :camera: Screenshots
-
-<div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
-</div>
-
-<!-- Installation -->
-## Installation
-
-1. Create and activate a virtual environment:
-
-   ```bash
-   python -m venv venv
-   # Windows
-   venv\Scripts\activate
-   # macOS/Linux
-   source venv/bin/activate
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Copy the folders:
-   
-   ```bash
-   Copy all the folders and the sourcecode into the same folder where the virtual environment was created.
-   ```
-4. Run the app:
-
-   ```bash
-   python diario.py
-   ```
-> **Note:** This project is provided as a **proof-of-concept** and is not intended for production use.
-## Third-Party Licenses
-The full list of third-party dependencies and their licenses can be found in [`DEPENDENCY_LICENSES.md`](DEPENDENCY_LICENSES.md).
+This application is not intended for distribution: it is a proof of
