@@ -1,7 +1,6 @@
 <div align="center">
   <img src="Images/App_Icon.ico" alt="logo" width="200" height="auto" />
-  <h1>Awesome Readme Template</h1>
-  <p>Daily Journal Proof-of-Concept</p>
+  <h1>Daily Journal Proof-of-Concept</h1>
 </div>
 
 # Table of Contents
