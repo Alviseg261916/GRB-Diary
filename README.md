@@ -9,21 +9,12 @@
 - [About the Project](#about-the-project)
   * [Project Description](#project-description)
   * [Screenshots](#screenshots)
-  * [Tech Stack](#tech-stack)
   * [Features](#features)
-  * [Color Reference](#color-reference)
-  * [Environment Variables](#environment-variables)
 - [Getting Started](#getting-started)
   * [Installation](#installation)
   * [Run Locally](#run-locally)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-  * [Code of Conduct](#code-of-conduct)
-- [FAQ](#faq)
 - [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+- [Third Party Licenses](#third-party-licenses)
 
 ## About the Project
 
@@ -52,3 +43,12 @@ Originally conceived as a personal project, this prototype evolved into a compre
   ![Deleting a note](Screenshots/07.png)
 
   ![List of the notes in a day](Screenshots/08.png)
+
+## Getting Started
+
+### Installation
+
+##License
+
+##Third Party Licenses
+
