@@ -17,11 +17,8 @@
   * [Color Reference](#art-color-reference)
   * [Environment Variables](#key-environment-variables)
 - [Getting Started](#toolbox-getting-started)
-  * [Prerequisites](#bangbang-prerequisites)
   * [Installation](#gear-installation)
-  * [Running Tests](#test_tube-running-tests)
   * [Run Locally](#running-run-locally)
-  * [Deployment](#triangular_flag_on_post-deployment)
 - [Usage](#eyes-usage)
 - [Roadmap](#compass-roadmap)
 - [Contributing](#wave-contributing)
@@ -31,7 +28,7 @@
 - [Contact](#handshake-contact)
 - [Acknowledgements](#gem-acknowledgements)
   
-# Daily Journal Proof-of-Concept
+## About the Project
 
 This application is a digital diary developed entirely in Python, using CustomTkinter for the graphical interface and SQL for data management. Unlike traditional CustomTkinter-based applications, the pvInStyle library has been integrated here, enabling smooth animations such as fade-in and fade-out, as well as advanced page management. Thanks to this integration, each button can control entire pages with multiple complex elements instead of single widgets, making the interface more dynamic, modern, and structured. Additionally, by using SQL, the application supports multiple users, each with their own personal password to access the diary in a private and secure manner.
 
