@@ -43,4 +43,12 @@ Originally conceived as a personal project, this prototype evolved into a compre
 
   ![Main Page with the note](Screenshots/03.png)
 
-  
+  ![List of the notes in a day](Screenshots/04.png)
+
+  ![Creating a second note](Screenshots/05.png)
+
+  ![List of the notes in a day with two notes](Screenshots/06.png)
+
+  ![Deleting a note](Screenshots/07.png)
+
+  ![List of the notes in a day](Screenshots/08.png)
