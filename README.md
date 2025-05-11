@@ -10,8 +10,8 @@
 
 # :notebook_with_decorative_cover: Table of Contents
 
-- [Gettin started]
-  *[Project Description](#Project Description)
+- [Gettin started](#toolbox-getting-started)
+  * [Project Description](#Project Description)
   * [Screenshots](#camera-screenshots)
   * [Tech Stack](#space_invader-tech-stack)
   * [Features](#dart-features)
