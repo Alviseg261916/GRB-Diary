@@ -11,7 +11,7 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project]()
-  * [Project Description](project-description)
+  * [Project Description](Project-description)
   * [Screenshots](#camera-screenshots)
   * [Tech Stack](#space_invader-tech-stack)
   * [Features](#dart-features)
