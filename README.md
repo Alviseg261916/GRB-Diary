@@ -10,8 +10,8 @@
 
 # :notebook_with_decorative_cover: Table of Contents
 
-- [Gettin started](#toolbox-getting-started)
-  * [Project Description](#Project Description)
+- [About the Project](#star2-about-the-project)
+  * [Project Description](#Project-Description)
   * [Screenshots](#camera-screenshots)
   * [Tech Stack](#space_invader-tech-stack)
   * [Features](#dart-features)
@@ -30,7 +30,7 @@
 - [Acknowledgements](#gem-acknowledgements)
 
 <!-- About the Project -->
-## :star2: Project description
+## :star2: Project Description
 
 This application is a digital diary developed entirely in Python, using CustomTkinter for the graphical interface and SQL for data management. Unlike traditional CustomTkinter-based applications, the pvInStyle library has been integrated here, enabling smooth animations such as fade-in and fade-out, as well as advanced page management. Thanks to this integration, each button can control entire pages with multiple complex elements instead of single widgets, making the interface more dynamic, modern, and structured. Additionally, by using SQL, the application supports multiple users, each with their own personal password to access the diary in a private and secure manner.
 
