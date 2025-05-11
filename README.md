@@ -48,7 +48,9 @@ Originally conceived as a personal project, this prototype evolved into a compre
 
 ### Installation
 
-##License
+### Run Locally
 
-##Third Party Licenses
+## License
+
+## Third Party Licenses
 
