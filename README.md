@@ -6,6 +6,7 @@
   <p>
     Daily Journal Proof-of-Concept 
   </p>
+</div>
 
 # :notebook_with_decorative_cover: Table of Contents
 
