@@ -35,7 +35,12 @@ The use of SQL authentication allows multiple users to maintain separate, passwo
 Originally conceived as a personal project, this prototype evolved into a comprehensive proof of concept. Please note that it is intended solely to demonstrate feasibility and is not distributed for production use.
 
 ### Screenshots
+  ![Login page](Screenshots/00.png)
 
-<!-- Singolo screenshot -->
-  ![Login Page](Screenshots/00.png)
+  ![Main page](Screenshots/01.png)
 
+  ![Creating a note](Screenshots/02.png)
+
+  ![Main Page with the note](Screenshots/03.png)
+
+  
