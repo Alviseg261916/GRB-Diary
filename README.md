@@ -38,7 +38,7 @@ This application is not intended for distribution: it is a proof of concept deve
 
 Author: Alvise, 2025.
 
-> **Note:** This project is provided as a **proof-of-concept** and is not intended for production use.
+
 
 <!-- Installation -->
 ## Installation
@@ -68,7 +68,6 @@ Author: Alvise, 2025.
    ```bash
    python diario.py
    ```
-
+> **Note:** This project is provided as a **proof-of-concept** and is not intended for production use.
 ## Third-Party Licenses
-
 The full list of third-party dependencies and their licenses can be found in [`DEPENDENCY_LICENSES.md`](DEPENDENCY_LICENSES.md).
