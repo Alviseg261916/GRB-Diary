@@ -29,6 +29,9 @@
 
 ### Project Description
 
-This application is a digital diary developed entirely in Python, using CustomTkinter for the graphical interface and SQL for data management. Unlike traditional CustomTkinter-based applications, the pvInStyle library has been integrated here, enabling smooth animations such as fade-in and fade-out, as well as advanced page management. Thanks to this integration, each button can control entire pages with multiple complex elements instead of single widgets, making the interface more dynamic, modern, and structured. Additionally, by using SQL, the application supports multiple users, each with their own personal password to access the diary in a private and secure manner.
+This application is a Python-based digital diary featuring a CustomTkinter graphical interface and an SQL back end for robust data management. Uniquely, it incorporates the pvInStyle library—enabling smooth fade-in/fade-out animations and sophisticated page transitions. As a result, each button can orchestrate entire pages of complex elements rather than single widgets, yielding a more dynamic, modern, and well-structured user experience.
+The use of SQL authentication allows multiple users to maintain separate, password-protected diaries, ensuring privacy and security.
 
-This application is not intended for distribution: it is a proof of
+Originally conceived as a personal project, this prototype evolved into a comprehensive proof of concept. Please note that it is intended solely to demonstrate feasibility and is not distributed for production use.
+
+
